@@ -28,7 +28,7 @@ Currently, this flag will not work when using
         --log-opt max-size=1m \
         --log-opt max-file=10 \
         --name webthings-gateway \
-        mozillaiot/gateway:latest
+        webthingsio/gateway:latest
     ```
 
 * On Windows or macOS:
@@ -43,7 +43,7 @@ Currently, this flag will not work when using
         --log-opt max-size=1m \
         --log-opt max-file=10 \
         --name webthings-gateway \
-        mozillaiot/gateway:latest
+        webthingsio/gateway:latest
     ```
 
 ### Parameters
